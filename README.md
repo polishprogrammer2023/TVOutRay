@@ -1,4 +1,4 @@
-# TVOutRay !BETA!
+# TVOutRay !ALPHA!
 
 TVOutRay is a lightweight C library that simulates the experience of TVOut.  
 It is designed for desktop simulation, allowing you to render graphics to a window that behaves like a low-resolution TV display.
